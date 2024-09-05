@@ -1,0 +1,25 @@
+emotion_model_creation/archive/
+emotion_model_creation/archive_ckplus/
+emotion_model_creation/emotion_detection_model_ck.keras
+emotion_model_creation/emotion_detection_model.keras
+.DS_Store
+emotion_model_creation/face_landmarks_test.csv
+emotion_model_creation/face_landmarks_train.csv
+emotion_model_creation/face_landmarks_test_old.csv
+emotion_model_creation/face_landmarks_train_old.csv
+emotion_model_creation/face_landmarks_ck.csv
+emotion_model_creation/face_landmarks_ck_test.csv
+emotion_model_creation/model/
+emotion_model_creation/model_ck/
+emotion_model_creation/model_ck_less.h5
+emotion_model_creation/model_ck.h5
+
+# Django #
+env
+__pycache__
+credentials.py
+
+# Frontend #
+node_modules/
+.node
+.npm
